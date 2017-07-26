@@ -1,2 +1,2 @@
-# chapter11-services-product
+# chapter10-services-product
 Example product service for chapter 11
